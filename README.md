@@ -78,7 +78,7 @@ experience_level: [1, 2, 3]  # Entry level, Associate, Mid-Senior level
 
 Run the bot using the following command:
 ```bash
-python src/easy_apply_bot.py
+python bot.py
 ```
 
 ## Logging
