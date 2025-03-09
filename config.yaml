@@ -1,0 +1,23 @@
+username: your_linkedin_username
+password: your_linkedin_password
+phone_number: your_phone_number
+salary: your_desired_salary
+rate: your_desired_rate
+positions:
+  - Software Engineer
+  - Data Scientist
+locations:
+  - "United States"
+  - "Canada"
+uploads:
+  Resume: path/to/your/resume.pdf
+  Cover Letter: path/to/your/coverletter.pdf
+output_filename: output.csv
+blacklist:
+  - "contract"
+  - "recruiter"
+blackListTitles:
+  - "Senior"
+experience_level:
+  - 1
+  - 3
