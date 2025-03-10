@@ -104,6 +104,12 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 
 Special thanks to the open-source community and the developers of Selenium, Pandas, and BeautifulSoup for their invaluable contributions.
 
+
+## Medium 
+
+If you interested in bloging you can follow me on medium and Read out their complete blog. 
+- **Medium**: [Blog link](https://medium.com/@arya119000/automate-your-job-applications-with-easy-apply-bot-fb036ee1ac85)
+
 ## Contact
 
 For any inquiries or feedback, reach out via:
